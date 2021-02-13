@@ -1,3 +1,7 @@
+
+this board does not have a high speed external clock, the fastest one we have access to is the 16MHZ internal clock\
+this board does have a low speed external clock, 32KHZ
+
 reference to the user manual:
 
 https://www.st.com/resource/en/reference_manual/dm00083560-stm32l47xxx-stm32l48xxx-stm32l49xxx-and-stm32l4axxx-advanced-armbased-32bit-mcus-stmicroelectronics.pdf
