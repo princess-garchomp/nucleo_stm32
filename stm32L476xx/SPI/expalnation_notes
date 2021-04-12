@@ -1,0 +1,7 @@
+the arduino_communication file holds the source code for my stm32L476 master to talk with an arduino slave over spi.
+there is some problem in the arduino code that makes it not function properly. 
+my code proves that the stm32 can send data and recieve data via interrupts
+the data the arduino recieves over SPI is printed to a terminal application over UART
+when data is recieved by the stm32 over SPI, if it is the correct data, an LED lights up 
+
+in the STM32_comm file is the source code for two of my stm32 boards talking over SPI
