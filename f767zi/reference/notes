@@ -1,0 +1,9 @@
+  
+user maunal (contains a pin out):
+https://www.st.com/resource/en/user_manual/dm00244518-stm32-nucleo144-boards-mb1137-stmicroelectronics.pdf
+
+source for schematic:
+https://www.st.com/en/evaluation-tools/nucleo-f767zi.html#cad-resources
+
+data sheet for the micro:
+https://www.st.com/resource/en/reference_manual/dm00224583-stm32f76xxx-and-stm32f77xxx-advanced-arm-based-32-bit-mcus-stmicroelectronics.pdf
