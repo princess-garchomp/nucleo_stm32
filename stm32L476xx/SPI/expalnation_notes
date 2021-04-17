@@ -5,3 +5,5 @@ the data the arduino recieves over SPI is printed to a terminal application over
 when data is recieved by the stm32 over SPI, if it is the correct data, an LED lights up 
 
 in the STM32_comm file is the source code for two of my stm32 boards talking over SPI
+
+there are still things to do with this but it is working. I need to figure out how to do some error checking.
